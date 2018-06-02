@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.score-container {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+}
+
+.side-by-side {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
